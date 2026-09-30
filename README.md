@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="#selected-work">代表项目</a> ·
-  <a href="#current-focus">当前方向</a> ·
+  <a href="#02--selected-work">代表项目</a> ·
+  <a href="#01--current-focus">当前方向</a> ·
   <a href="https://github.com/Dxboy266/Tech-Grimoire">技术笔记</a>
 </p>
 
